@@ -1,1 +1,14 @@
 /*  your css code here. If applicable */
+body{
+background-color: #f8f8f8;	
+}
+.p1{
+	color: #ffffff;
+}
+.p2{
+	color:#777777;
+}
+
+.price{
+	color:#2ecc71;
+}
